@@ -1,1 +1,0 @@
-<span id="hours">Tes Deploy Azure</span>
